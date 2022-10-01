@@ -9,4 +9,4 @@ Welcome, here you find code challenges for SQL language from CodeWars.com
 ## Rank:8 kyu  Rank:7 kyu  Rank:6 kyu   
 **Total**: 
 
-* `Multiply` || [  `multiply.sql`  ](/Code-SQL/Multiply.py)  Site [CodeWars, SQL  ](https://www.codewars.com/kata/50654ddff44f800200000004/train/sql)
+* `Multiply` || [  `multiply.sql`  ](/Code-SQL/Multiply.sql)  Site [CodeWars, SQL  ](https://www.codewars.com/kata/50654ddff44f800200000004/train/sql)
