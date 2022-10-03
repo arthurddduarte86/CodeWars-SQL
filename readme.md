@@ -11,3 +11,4 @@ Welcome, here you find code challenges for SQL language from CodeWars.com
 **Total**: 
 
 * `Multiply` || [  `multiply.sql`  ](/Code-SQL/multiply.sql)  Site [CodeWars, SQL  ](https://www.codewars.com/kata/50654ddff44f800200000004/train/sql)
+* `Opposite number` || [  `Opposite_number.sql`  ](/Code-SQL/Opposite_number.sql)  Site [CodeWars, SQL  ](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/sql)
